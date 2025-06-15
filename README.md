@@ -55,7 +55,7 @@ The U-Net model architecture is implemented in `U_Net.py`. Adjustments to the ar
 
 ## Results
 
-Trained model checkpoints and segmentation results are saved under the `results/` directory. Visualizations of model performance are included in the notebook.
+Trained model checkpoints and segmentation results are saved under the `models/` directory. Visualizations of model performance are included in the notebook.
 
 ## License
 
