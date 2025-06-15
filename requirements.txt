@@ -1,7 +1,7 @@
 tifffile
 numpy
 matplotlib
-PyTorch
+torch
 opencv-python
 albumentations
-sklearn
+scikit-learn
