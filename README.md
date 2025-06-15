@@ -21,7 +21,7 @@ Dataset details:
 ├── main.ipynb          # Jupyter notebook containing end-to-end training and evaluation workflow
 ├── U_Net.py            # Python script defining the U-Net model architecture
 ├── data/               # Directory for storing the ISBI2012 dataset
-├── results/            # Directory for saving trained models and segmentation outputs
+├── models/            # Directory for saving trained models and segmentation outputs
 └── README.md           # Project documentation
 ```
 
