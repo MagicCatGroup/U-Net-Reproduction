@@ -27,7 +27,8 @@ Dataset details:
 
 ## Requirements
 
-Install the required libraries via pip:
+- Python = 3.9
+- Install the required libraries via pip:
 
 ```bash
 pip install -r requirements.txt
@@ -56,6 +57,11 @@ The U-Net model architecture is implemented in `U_Net.py`. Adjustments to the ar
 ## Results
 
 Trained model checkpoints and segmentation results are saved under the `models/` directory. Visualizations of model performance are included in the notebook.
+
+## Example Result
+
+Here is an example of model segmentation:
+![image](https://github.com/user-attachments/assets/12a4f74b-412c-4d4c-9b78-dcb3969c5d83)
 
 ## License
 
